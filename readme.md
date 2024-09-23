@@ -24,9 +24,9 @@ If both the player and the dealer bust, the dealer wins.
 
 
 ## What is used in this bot:
-Python
-SQL
-Git
+- Python
+- SQL
+- Git
 
 ## status:
 - finished, but more graphic interface will be added soon
