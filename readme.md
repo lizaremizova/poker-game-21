@@ -1,8 +1,7 @@
 # 21 game Bot
 
 ## About
-Hi there, I am Crocodile Game bot.
-I am here to count your Crocodile points with you, I will store your Crocodile data in my database and tell you what you can do with them
+Telegram bot that allows users to play famous card game - the 21 game
 
 ## Objective: To get a card total as close to 21 as possible without going over (busting).
 
@@ -28,3 +27,6 @@ If both the player and the dealer bust, the dealer wins.
 Python
 SQL
 Git
+
+## status:
+- finished, but more graphic interface will be added soon
